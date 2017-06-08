@@ -1,0 +1,8 @@
+Instrucciones del proyecto
+1 Entra localhost/Agenda/login.html
+2 Ingresa un usuario y contraseña
+3 Presione el boton de Enviar para validarlo
+4 Entra localhost/Agenda/index.php
+5 Seleccione 1 o 2 dias para añadir un evento
+6 Escribe los detalles del evento la hora y el tiempo
+7 Y Listo se registra el evento en la base de datos
